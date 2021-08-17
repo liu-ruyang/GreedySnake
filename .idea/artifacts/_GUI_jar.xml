@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="遇见狂神说_GUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_GUI_jar</output-path>
+    <root id="archive" name="遇见狂神说_GUI.jar">
+      <element id="module-output" name="遇见狂神说_GUI" />
+    </root>
+  </artifact>
+</component>
