@@ -1,5 +1,6 @@
 package com.kuang.snake;
 
+
 import javax.swing.*;
 
 public class StartGame {

@@ -4,6 +4,7 @@ import java.net.URL;
 
 import javax.swing.*;
 
+// 存放图片地址，静态直接使用
 public class Data {
     public static URL headerUrl = Data.class.getResource("./images/header.png");
     public static ImageIcon header = new ImageIcon(headerUrl);

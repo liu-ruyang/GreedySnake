@@ -53,7 +53,7 @@ public class GamePanel extends JPanel implements KeyListener, ActionListener {
 
     @Override
     protected void paintComponent(Graphics g) {
-        super.paintComponent(g);   //
+        super.paintComponent(g);   //清屏
         // 绘制静态的面板
         this.setBackground(Color.black);
 
